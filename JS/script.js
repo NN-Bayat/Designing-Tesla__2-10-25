@@ -220,4 +220,3 @@ interiorColorsSection.addEventListener("click", handleColorButtonClick);
 wheelButtonsSection.addEventListener("click", handleWheelButtonClick);
 performanceButton.addEventListener("click", handlePerformanceButtonClick);
 fullSelfDrivingCheckbox.addEventListener("change", fullSelfDrivingChange);
-""
